@@ -14,7 +14,7 @@ from datetime import datetime
 # CONFIGURATION - SET THESE IN RAILWAY
 # ========================================
 
-BOT_TOKEN = os.environ.get('BOT_TOKEN', 'YOUR_BOT_TOKEN')
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '8603563956:AAFbVCX5ahMSaTJfggyisG8ii9Gx9hsNJRE')
 API_URL = os.environ.get('API_URL', 'http://localhost:8080')
 SECRET_KEY = os.environ.get('SECRET_KEY', 'ZAKPUBG_SECRET_KEY_2026')
 
