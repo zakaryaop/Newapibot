@@ -15,7 +15,7 @@ from datetime import datetime
 # ========================================
 
 BOT_TOKEN = os.environ.get('BOT_TOKEN', '8603563956:AAFbVCX5ahMSaTJfggyisG8ii9Gx9hsNJRE')
-API_URL = os.environ.get('API_URL', 'http://localhost:8080')
+API_URL = os.environ.get('API_URL', 'http://newapibot-production.up.railway.app')
 SECRET_KEY = os.environ.get('SECRET_KEY', 'ZAKPUBG_SECRET_KEY_2026')
 
 # Admin user IDs (who can generate keys)
